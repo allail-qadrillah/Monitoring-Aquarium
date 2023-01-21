@@ -119,15 +119,15 @@ Status: High🔥
     
     pastikan Arduino telah dipilih sesuai dengan tipe Arduino yang digunakan dan juga sudah terkoneksi pada PORT yang benar
     
-    ![Untitled](Monitoring%20Aquarium%20d44c4071a56a4dda8401a4478c7bfd8e/Untitled%202.png)
+    ![Untitled 2](https://user-images.githubusercontent.com/89723505/213875479-3b9d10a7-1b60-4ab4-92b9-ba1a870fdd2f.png)
     
     jika semua sudah sesuai. klik tombol ➡️ untuk mengupload program ke Arduino ✨
     
-    ![Untitled](Monitoring%20Aquarium%20d44c4071a56a4dda8401a4478c7bfd8e/Untitled%203.png)
+    ![Untitled 3](https://user-images.githubusercontent.com/89723505/213875492-f0b99bc5-1f0d-4225-834e-4b28f950f2e4.png)
     
     untuk melihat output dari program. pilih Serial Monitor atau dengan shortkey ctrl+Shift+M 👌
     
-    ![Untitled](Monitoring%20Aquarium%20d44c4071a56a4dda8401a4478c7bfd8e/Untitled%204.png)
+    ![Untitled 4](https://user-images.githubusercontent.com/89723505/213875497-8e078ea2-3dd2-41b9-b311-0b93218a21c9.png)
     
     > Selamat kamu telah berhasil membuat program Monitoring Suhu dan PH Aquarium🎉
     > 
@@ -143,7 +143,7 @@ Status: High🔥
     
     untuk mengkalibrasi sensor PH, harus memiliki cairan PH yang nilainya diketahui 
     
-    ![Untitled](Monitoring%20Aquarium%20d44c4071a56a4dda8401a4478c7bfd8e/Untitled.jpeg)
+    ![Untitled](https://user-images.githubusercontent.com/89723505/213875512-8880c935-fe5c-440e-9662-02ee11766320.jpeg)
     
     1. ubah program kalibrasi menjadi true pada baris ke 18
         
