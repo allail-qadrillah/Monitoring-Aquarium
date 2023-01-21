@@ -1,5 +1,5 @@
 #include <Arduino.h>
-
+// masukkan libraries yang diinstall
 #include <DallasTemperature.h>
 #include <OneWire.h>
 
@@ -35,6 +35,7 @@ void setup()
 void loop()
 {
   if (!kalibrasi){
+	  // Jika tidak melakukan kalibrasi sensor PH (kalibrasi = false). maka kode ini akan berjalan
     // baca sensor PH
     float phValue = analogRead(PIN_SENSOR_PH);        // baca nilai pin A0
     float voltage = phValue * (5.0 / 1023.0);         // ubah nilainya menjadi tegangan
@@ -54,7 +55,10 @@ void loop()
 
     // jeda program selama satu detik
     delay(1000);
-  }else{
+
+  }
+		else{
+    // Jika melakukan kalibrasi sensor PH (kalibrasi = true). maka kode ini akan berjalan
     // baca sensor PH
     float phValue = analogRead(PIN_SENSOR_PH);
     float voltage = phValue * (5.0 / 1023.0);
