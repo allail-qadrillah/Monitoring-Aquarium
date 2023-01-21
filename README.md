@@ -1,8 +1,3 @@
-# Monitoring Aquarium
-
-Created: January 19, 2023 4:42 PM
-Status: High🔥
-
 # Dependencies Sensor Suhu
 
 ---
@@ -167,4 +162,4 @@ Status: High🔥
     
     kalo ada yang masi bingung atau ada yg mau ditanyain DM aja sini 🤙
     
-    [](https://www.instagram.com/allailqadrillah_)
+    [allailqadrillah](https://www.instagram.com/allailqadrillah_)
