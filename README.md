@@ -162,4 +162,4 @@
     
     kalo ada yang masi bingung atau ada yg mau ditanyain DM aja sini 🤙
     
-    [allailqadrillah](https://www.instagram.com/allailqadrillah_)
+    [Instagram](https://www.instagram.com/allailqadrillah_)
